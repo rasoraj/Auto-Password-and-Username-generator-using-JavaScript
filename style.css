@@ -1,0 +1,64 @@
+.cntn{
+    position:absolute;
+    top:133px;
+    left:495px;
+    height:500px;
+    width:500px;
+    border-radius: 25px;
+    background: url("Abstract-Blue-Light-Vector-Background1.jpg");
+}
+
+.bg{
+    background: url("Abstract-Light-l.jpg");
+}
+
+.undercntn{
+    padding-left: 50px;
+    padding-top: 50px;
+    font-family: "Verdana";
+    color:white
+}
+
+.long{
+
+    height:41px;
+    width:392px;
+    border-radius: 19px;
+    border:none;
+    padding-left: 10px;
+    position:absolute;
+
+}
+
+.btn{
+    top:289px;
+    left:203px;
+    height:30px;
+    width:100px;
+    background-color: rgb(181, 235, 75);
+    border-color: rgb(181, 235, 75);
+    border-radius:16px;
+    position:absolute;
+}
+
+.short{
+    position:absolute;
+    top:349px;
+    left:156px;
+    height:31px;
+    width:200px;
+    text-align: center;
+    border-radius:14px;
+    border:none;
+}
+
+.short2{
+    position:absolute;
+    top:390px;
+    left:156px;
+    height:31px;
+    width:200px;
+    text-align: center;
+    border-radius:14px;
+    border:none;
+}
